@@ -1,4 +1,5 @@
-# Smart India Hackathon 2026 | Internal Workshop
+# SIH - PPT
+# Smart India Hackathon 
 # Date: 21/04/2026
 
 # Register Number: 212224060241
