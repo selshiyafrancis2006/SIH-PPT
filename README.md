@@ -1,4 +1,4 @@
-# SIH - PPT
+# SIH-PPT
 # Smart India Hackathon Workhop
 # Date: 21/04/2026
 
@@ -6,14 +6,14 @@
 
 # Name: Selshiya F
 
-1. Problem Identification
+# 1. Problem Identification
 Problem Title: AI-Driven Autonomous Valve Regulation for Precision Irrigation in Micro-Irrigation Networks.
 
 Problem Description: Conventional irrigation often leads to water inequity and wastage. This project focuses on developing an AI-based closed-loop system for the Ministry of Jal Shakti. By monitoring real-time soil moisture within the crop’s root zone, the system dynamically regulates solenoid valves in a piped network. This ensures high-precision water delivery, optimizes resource consumption, and enhances crop physiological health.
 
 Organization: Ministry of Jal Shakti
 
-2. The Concept (Idea)
+# 2. The Concept (Idea)
 Our approach transitions from "Scheduled Irrigation" to "Demand-Based Irrigation."
 
 Sense: Deployment of high-sensitivity soil moisture probes.
@@ -24,7 +24,7 @@ Act: Automated PWM (Pulse Width Modulation) or On/Off control of field valves.
 
 Connect: Cloud integration for data logging and remote farmer oversight.
 
-3. Proposed Technical Solution
+# 3. Proposed Technical Solution
 Hardware Stack
 Sensing Layer: Capacitive Soil Moisture Sensors (corrosion resistant) and DHT11 (for ambient humidity/temp).
 
@@ -54,7 +54,7 @@ Active Regulation: If θ<Threshold, the AI triggers the solenoid valve.
 
 Optimization: The valve closes once the Field Capacity (FC) is reached, preventing deep percolation losses.
 
-4. System Architecture
+# 4. System Architecture
 (Visual Suggestion: Represent this as a block diagram in your PPT)
 
 Input: Soil Moisture + Weather Data.
@@ -63,7 +63,7 @@ Controller: AI Model (Decision Matrix).
 
 Output: Valve State (Open/Closed) + Cloud Analytics.
 
-5. Unique Advantages
+# 5. Unique Advantages
 Water Conservation: Reduces water footprint by up to 40% compared to manual flooding.
 
 Energy Efficiency: Optimizes pump runtime, reducing electricity costs.
@@ -74,5 +74,5 @@ Labor Reduction: Fully autonomous operation eliminates the need for physical val
 
 Scalability: Modular design allows for deployment from small greenhouses to large-scale piped networks.
 
-6. Conclusion
+# 6. Conclusion
 This AI-integrated solution transforms traditional irrigation into a data-driven utility. By aligning water delivery with the biological needs of the crop, we support the Ministry of Jal Shakti’s vision of "Per Drop More Crop." This system is not just a tool for automation; it is a vital step toward ensuring food security and water sustainability in an era of climate volatility.
