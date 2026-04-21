@@ -1,5 +1,5 @@
 # SIH - PPT
-# Smart India Hackathon 
+# Smart India Hackathon Workhop
 # Date: 21/04/2026
 
 # Register Number: 212224060241
